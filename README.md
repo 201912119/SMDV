@@ -5,12 +5,16 @@ The following is a proposed computer vision-based model for video frame summariz
 
 <details open>
 <summary>Visual Explanation of SDMV model</summary>
-(https://user-images.githubusercontent.com/57282069/168065072-599732b5-e813-483d-ac92-b964a9a5d080.png)
+
+![image](https://user-images.githubusercontent.com/57282069/168068056-a8d1f6e9-ace8-4644-886b-fc2f76ba4e87.png)
+
 
 </details>
 
 <details open>
 <summary>Flowchart</summary>
-(https://user-images.githubusercontent.com/57282069/168064974-e1b6f8af-7323-4212-ac4f-563dabaab189.png)
+  
+![flowchart](https://user-images.githubusercontent.com/57282069/168068028-2221b2b4-b9a8-40ce-8018-2a64bb157767.png)
+
 
 </details>
