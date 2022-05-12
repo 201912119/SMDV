@@ -7,9 +7,10 @@ The following is a proposed computer vision-based model for video frame summariz
 <summary>Visual Explanation of SDMV model</summary>
 ![image](https://user-images.githubusercontent.com/57282069/168065072-599732b5-e813-483d-ac92-b964a9a5d080.png)
 
-
+</details>
 
 <details open>
 <summary>Flowchart</summary>
   ![flowchart](https://user-images.githubusercontent.com/57282069/168064974-e1b6f8af-7323-4212-ac4f-563dabaab189.png)
 
+</details>
