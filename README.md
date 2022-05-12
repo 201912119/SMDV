@@ -9,4 +9,4 @@ Visual Explanation of SDMV model
 
 Flowchart
 ![flowchart](https://user-images.githubusercontent.com/57282069/168064974-e1b6f8af-7323-4212-ac4f-563dabaab189.png)
-w32
+
